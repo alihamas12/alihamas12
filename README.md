@@ -1,12 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:0077b6&height=200&section=header&text=Ali%20Hamas&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%26%20Automation%20Architect&descAlignY=62&descSize=18&animation=fadeIn" alt="Header" width="100%" />
+  <h1>Hi there, I'm <span style="color:#00d8ff;">Ali Hamas</span> 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+AI+Developer;CRM+%26+Automation+Solutions+Specialist;Co-Founder+%40+A1+Tech+Solution;Building+Autonomous+Agentic+AI+Systems" alt="Typing SVG" />
+  </a>
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alihamas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Ali-Hamas" target="_blank">
+  <a href="https://github.com/alihamas12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0a192f?style=for-the-badge&logo=github&logoColor=00d8ff" alt="GitHub" />
   </a>
   <a href="mailto:alihamasofficial@gmail.com">
@@ -91,7 +96,7 @@
 
 <br />
 
-<h3>🚀 Featured Deployments & Projects</h3>
+<h3>🚀 Featured Deployments & Repositories</h3>
 <table>
   <thead>
     <tr>
@@ -112,19 +117,19 @@
       <td>Real estate SaaS with Row-Level Security, English/Arabic RTL support, and integrated AI voice workflows.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Ali-Hamas/OpenRouter_Model_Arena">OpenRouter Model Arena 🤖</a></b></td>
-      <td><code>Python</code> <code>React</code> <code>LLMs</code></td>
-      <td>Side-by-side LLM evaluation arena for benchmarking reasoning accuracy and token latency.</td>
+      <td><b><a href="https://github.com/alihamas12/Motivatinoal-Post-Genrator">AI Motivational Post Generator ⚡</a></b></td>
+      <td><code>n8n</code> <code>AI Agents</code> <code>Automation</code></td>
+      <td>Automated AI agent workflow generating custom visuals, quotes, and hands-free social publishing.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Ali-Hamas/N8N-Motivatinoal-Post-Genrator">Autonomous Content & Lead Pipelines ⚡</a></b></td>
-      <td><code>n8n</code> <code>Playwright</code> <code>Node.js</code></td>
-      <td>End-to-end lead extraction, automated outreach, and AI-powered social publishing workflows.</td>
+      <td><b>B2B Lead Scraper & Outreach Suite 🎯</b></td>
+      <td><code>Chrome Ext</code> <code>Python</code> <code>Desktop App</code></td>
+      <td>End-to-end Google Maps business lead extraction extension paired with an automated email outreach engine.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Ali-Hamas/Simple-Chatbot-assistant-with-voice">AI Voice Receptionist & Assistant 🎙️</a></b></td>
-      <td><code>Vapi</code> <code>ElevenLabs</code> <code>Twilio</code> <code>JS</code></td>
-      <td>Low-latency conversational voice bots with custom CRM integration and real-time call handling.</td>
+      <td><b>AI Voice Receptionist & Bot CRM 🎙️</b></td>
+      <td><code>Vapi</code> <code>ElevenLabs</code> <code>Twilio</code> <code>Playwright</code></td>
+      <td>Low-latency conversational voice receptionists with automated dialer and real-time CRM sync.</td>
     </tr>
   </tbody>
 </table>
@@ -133,8 +138,8 @@
 
 <h3>📈 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamas&show_icons=true&bg_color=0a192f&hide_border=true&title_color=00d8ff&text_color=cbd5e1&icon_color=00b4d8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamas&layout=compact&bg_color=0a192f&hide_border=true&title_color=00d8ff&text_color=cbd5e1" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alihamas12&show_icons=true&bg_color=0a192f&hide_border=true&title_color=00d8ff&text_color=cbd5e1&icon_color=00b4d8" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihamas12&layout=compact&bg_color=0a192f&hide_border=true&title_color=00d8ff&text_color=cbd5e1" height="155" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hamas&hide_border=true&background=0a192f&ring=00d8ff&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d8ff&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihamas12&hide_border=true&background=0a192f&ring=00d8ff&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d8ff&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub Streak" />
 </div>
