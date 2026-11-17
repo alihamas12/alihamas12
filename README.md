@@ -1,13 +1,17 @@
 <div align="center">
   <h1>Hi there, I'm <span style="color:#00d8ff;">Ali Hamas</span> 👋</h1>
+  <h3>Co-Founder @ <a href="https://a1techsolution.arfaschooling.com/" target="_blank">A1 Tech Solution</a> | Software Engineer & Agentic AI Architect</h3>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+AI+Developer;CRM+%26+Automation+Solutions+Specialist;Co-Founder+%40+A1+Tech+Solution;Building+Autonomous+Agentic+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Co-Founder+%40+A1+Tech+Solution;Software+Engineer+%7C+Full-Stack+AI+Developer;CRM+%26+Automation+Solutions+Specialist;Building+Autonomous+Agentic+AI+Systems" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
+  <a href="https://a1techsolution.arfaschooling.com/" target="_blank">
+    <img src="https://img.shields.io/badge/A1_Tech_Solution-Co--Founder-023e8a?style=for-the-badge&logo=vercel&logoColor=00d8ff" alt="A1 Tech Solution" />
+  </a>
   <a href="https://www.linkedin.com/in/alihamas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,9 +21,6 @@
   <a href="mailto:alihamasofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-alihamasofficial%40gmail.com-0096c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://a1techsolution.arfaschooling.com" target="_blank">
-    <img src="https://img.shields.io/badge/Agency-A1_Tech_Solution-023e8a?style=for-the-badge&logo=vercel&logoColor=white" alt="A1 Tech Solution" />
-  </a>
 </div>
 
 <br />
@@ -27,13 +28,15 @@
 <h3>👨‍💻 About Me</h3>
 <blockquote>
   <b>I build autonomous systems that think, talk, and execute.</b><br />
-  I am a <b>Software Engineer</b> and <b>CRM & Automation Solutions Specialist</b> focused on bridging scalable full-stack engineering (Next.js, NestJS, Node.js, Python) with production-grade <b>Agentic AI</b>. Co-founder at <b>A1 Tech Solution</b> and core AI engineer building multi-tenant SaaS platforms, AI voice receptionists, RAG memory architectures, and end-to-end workflow automations.
+  I am the <b>Co-Founder of <a href="https://a1techsolution.arfaschooling.com/" target="_blank">A1 Tech Solution</a></b>, a <b>Software Engineer</b>, and a <b>CRM & Automation Solutions Specialist</b> focused on bridging scalable full-stack engineering (Next.js, NestJS, Node.js, Python) with production-grade <b>Agentic AI</b>. At A1 Tech Solution and across my engineering teams, I architect multi-tenant SaaS platforms, AI voice receptionists, RAG memory architectures, and end-to-end business workflow automations.
 </blockquote>
 
 <ul>
+  <li>🚀 <b>Leadership & Venture:</b> Co-Founder at <a href="https://a1techsolution.arfaschooling.com/" target="_blank"><b>A1 Tech Solution</b></a> — delivering custom AI agents, voice receptionists, web platforms, and CRM automation solutions.</li>
   <li>🔭 <b>Currently Building:</b> Multi-tenant SaaS platforms, autonomous multi-agent workflows, and real-time conversational AI voice agents.</li>
   <li>🛠️ <b>Core Focus:</b> Full-Stack Web Architecture, Custom CRM Systems, AI Voice Receptionists (Twilio / Vapi / ElevenLabs), and Business Process Automation.</li>
-  <li>📫 <b>Reach Me At:</b> <a href="mailto:alihamasofficial@gmail.com">alihamasofficial@gmail.com</a></li>
+  <li>🌐 <b>Agency Website:</b> <a href="https://a1techsolution.arfaschooling.com/" target="_blank">a1techsolution.arfaschooling.com</a></li>
+  <li>📫 <b>Direct Email:</b> <a href="mailto:alihamasofficial@gmail.com">alihamasofficial@gmail.com</a></li>
 </ul>
 
 <br />
@@ -107,7 +110,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://black-desck.vercel.app">BlackDesck OS 🧠</a></b></td>
+      <td><b><a href="https://a1techsolution.arfaschooling.com/" target="_blank">A1 Tech Solution 🌐</a></b></td>
+      <td><code>Agentic AI</code> <code>Voice Bots</code> <code>Full-Stack</code></td>
+      <td>Co-founded AI & software engineering agency delivering custom autonomous workflows, chatbots, and enterprise web systems.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://black-desck.vercel.app" target="_blank">BlackDesck OS 🧠</a></b></td>
       <td><code>Next.js</code> <code>AI Agents</code> <code>CRM</code></td>
       <td>AI-driven business operating system combining CRM pipelines, Kanban task boards, and payment tracking.</td>
     </tr>
@@ -117,7 +125,7 @@
       <td>Real estate SaaS with Row-Level Security, English/Arabic RTL support, and integrated AI voice workflows.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/alihamas12/Motivatinoal-Post-Genrator">AI Motivational Post Generator ⚡</a></b></td>
+      <td><b><a href="https://github.com/alihamas12/Motivatinoal-Post-Genrator" target="_blank">AI Motivational Post Generator ⚡</a></b></td>
       <td><code>n8n</code> <code>AI Agents</code> <code>Automation</code></td>
       <td>Automated AI agent workflow generating custom visuals, quotes, and hands-free social publishing.</td>
     </tr>
@@ -138,8 +146,10 @@
 
 <h3>📈 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihamas12&show_icons=true&bg_color=0a192f&hide_border=true&title_color=00d8ff&text_color=cbd5e1&icon_color=00b4d8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihamas12&layout=compact&bg_color=0a192f&hide_border=true&title_color=00d8ff&text_color=cbd5e1" height="155" alt="Top Languages" />
+  <p>
+    <img src="https://img.shields.io/github/followers/alihamas12?style=for-the-badge&color=0077b5&label=Followers&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/alihamas12?style=for-the-badge&color=00b4d8&label=Stars&logo=github" alt="Stars" />
+  </p>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihamas12&hide_border=true&background=0a192f&ring=00d8ff&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d8ff&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub Streak" />
 </div>
